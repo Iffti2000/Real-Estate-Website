@@ -1,7 +1,9 @@
+import Header from "./components/Header"
+
 const App = () => {
   return (
-    <div>
-      <h1 className='bg-red-600 font-bold text-amber-50'>Hello  world</h1>
+    <div className="w-full overflow-hidden ">
+      <Header/>
     </div>
   )
 }
