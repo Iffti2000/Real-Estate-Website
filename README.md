@@ -1,12 +1,50 @@
-# React + Vite
+# Real Estate Landing Page 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive real estate landing page built with React and Tailwind CSS. Clean UI with modern design, smooth user experience, and responsive across all devices.
 
-Currently, two official plugins are available:
+## Live Demo
+[Click Here to View](https://real-estate-website-green-two.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React
+- Tailwind CSS
+- JavaScript
 
-## Expanding the ESLint configuration
+## Features
+- Fully responsive design (mobile, tablet, desktop)
+- Smooth transitions and animations
+- Modern UI layout
+- Easy navigation
+- Functional contact form
+- The cards project section moves sideways when top right buttons are clicked
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Screenshots
+
+### Intro
+![](Screenshots/Screenshot-1.png)
+
+### Header Section
+![](Screenshots/Screenshot-2.png)
+
+### About Us Section
+![](Screenshots/Screenshot-3.png)
+
+### Portfolio Section
+![](Screenshots/Screenshot-4.png)
+
+### Portfolio Section
+![](Screenshots/Screenshot-5.png)
+
+### Reviews Section
+![](Screenshots/Screenshot-6.png)
+
+### Contact and Footer Section
+![](Screenshots/Screenshot-7.png)
+
+## Installation & Running Locally
+
+```bash
+git clone https://github.com/Iffti2000/Real-Estate-Website.git
+cd Real-Estate-Website
+npm install
+npm start
